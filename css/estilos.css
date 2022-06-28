@@ -1,0 +1,29 @@
+body {
+    background-image:url(https://global-uploads.webflow.com/5d84fed445baf42353e81430/5e135e5f946b12ecd4c280da_urban-and-urbanization.jpg);
+    background-position:center;
+    color:white;
+    text-align:center;
+}
+
+p {
+ text-align: center;
+ color:black;
+ background-color:brown;
+ font-size: 200%;
+ font-weight: bold;
+}
+
+h1 {
+    font;
+    font-family: fantasy;
+    font-size:400%;
+    font-style:normal;
+    background-color: brown;
+    color: black;
+
+}
+
+a {
+    font-size: xx-large;
+    background-color:white;
+}
